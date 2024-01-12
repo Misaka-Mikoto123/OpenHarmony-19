@@ -1,0 +1,23 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/UserInfoPage",
+    "pages/SettingPage",
+    "pages/NewFriendPage",
+    "pages/GroupChatPage",
+    "pages/LabelPage",
+    "pages/OfficialAccountPage",
+    "pages/CorporateContactsPage",
+    "pages/ContactUserInfoPage",
+    "pages/ServicePage",
+    "pages/CardHolderPage",
+    "pages/LoginPage",
+    "pages/AboutPage",
+    "pages/FunctionIntroductionPage",
+    "pages/ComplaintPage",
+    "pages/CheckForNewVersionsPage",
+    "pages/LicensePage",
+    "pages/PrivacyPage",
+    "pages/ChatPage"
+  ]
+}
